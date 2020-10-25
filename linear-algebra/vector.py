@@ -11,7 +11,22 @@ class Vector(object):
 
         except TypeError:
             raise TypeError('The coordinates must be an iterable')
-
+            
+    # Vector addition
+    def plus(self, v):
+        new_coords = [x + y for x, y in zip(self.coordinates, v.coordinates)]
+        return Vector(new_coords)
+    
+    # Vector subtraction
+    def minus(self, v):
+        new_coords = [x - y for x, y in zip(self.coordinates, v.coordinates)]
+        return Vector(new_coords)
+    
+    # Scalar multiplication
+    def times_scalar(self, c):
+        new_coords = [c * x for x in self.coordinates]
+        return Vector(new_coords)
+    
     def __str__(self):
         return 'Vector: {}'.format(self.coordinates)
 

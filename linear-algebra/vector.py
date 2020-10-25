@@ -35,3 +35,5 @@ class Vector(object):
 
 # vec = Vector([1, 2, 3])
 # print(vec) # Vector: (1, 2, 3)
+
+# https://repl.it/repls/FaroffPlainGenerics#main.py

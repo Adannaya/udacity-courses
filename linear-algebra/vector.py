@@ -35,5 +35,8 @@ class Vector(object):
 
 # vec = Vector([1, 2, 3])
 # print(vec) # Vector: (1, 2, 3)
+# vec2 = Vector([2, 3, 4])
+# print(vec.add(vec2)) # Vector: (3, 5, 7)
+# print(vec.times_scalar(2)) # Vector: (2, 4, 8)
 
 # https://repl.it/repls/FaroffPlainGenerics#main.py

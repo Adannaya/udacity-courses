@@ -5,6 +5,7 @@ udacity.com
 * [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 * [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+  - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
   - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
   - [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)

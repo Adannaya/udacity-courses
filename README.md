@@ -1,8 +1,8 @@
 # udacity-courses
 udacity.com
 
-* [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
-* [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+* [x] [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
+* [x] [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 * [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 * [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
   - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
